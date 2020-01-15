@@ -2,13 +2,15 @@
 
 Welcome to Liberal Crime Squad! The Conservatives have taken the Executive, Legislative, and Judicial branches of government. Over time, the Liberal laws of this nation will erode and turn the country into a BACKWOODS YET CORPORATE NIGHTMARE. To prevent this from happening, the Liberal Crime Squad was established. The mood of the country is shifting, and we need to turn things around. Go out on the streets and indoctrinate Conservative automatons. That is, let them see their True Liberal Nature. Then arm them and send them forth to Stop Evil.
 
-This version of Liberal Crime Squad is an unofficial transfer from SourceForge. A full list of authors is available in AUTHORS.
+This version of Liberal Crime Squad is an unofficial transfer from SourceForge with modifications from GitHub. A full list of authors is available in AUTHORS.
 
 Read [COMPILE_README.txt](COMPILE_README.txt) for instructions on how to compile on all platforms.
 
-## Augmentations
+## New Features
 
-This version of Liberal Crime Squad includes changes such as small bug fixes, game mechanic tweaks so that it plays better, and new features, such as the new Augmentation system!
+This version of Liberal Crime Squad includes changes such as small bug fixes, game mechanic tweaks so that it plays better, and new features, such as the new Augmentation system! This version borrows Liberally from other sources.
+
+#### Augmentations
 
 The fight against the Conservative Swine is a long and dangerous one, and Liberals need every advantage they can get. As we turn to modern technology, we find yet another way to help the Liberal Cause: We can make our Liberals faster, stronger, and better than ever before through the use of Augmentations!
 
